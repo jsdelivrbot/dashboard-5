@@ -1,0 +1,9 @@
+.sidebar {
+  background-color: #f5f5f5;
+  border-right: 1px solid #eee;
+}
+
+.main {
+  padding: 20px;
+  background-color: #fafafa;
+}
